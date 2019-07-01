@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PandaWeb/static/css/main.34de6062.chunk.css",
+    "main.js": "/PandaWeb/static/js/main.c98fa0f8.chunk.js",
+    "main.js.map": "/PandaWeb/static/js/main.c98fa0f8.chunk.js.map",
+    "runtime~main.js": "/PandaWeb/static/js/runtime~main.79a21486.js",
+    "runtime~main.js.map": "/PandaWeb/static/js/runtime~main.79a21486.js.map",
+    "static/js/2.b41502e9.chunk.js": "/PandaWeb/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/PandaWeb/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/PandaWeb/index.html",
+    "precache-manifest.b7f28fa0340d4edde8ee4f0b371bff38.js": "/PandaWeb/precache-manifest.b7f28fa0340d4edde8ee4f0b371bff38.js",
+    "service-worker.js": "/PandaWeb/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/PandaWeb/static/css/main.34de6062.chunk.css.map"
+  }
+}
